@@ -1,12 +1,12 @@
-package com.UST.Flightservices;
+package com.UST.stateDistrictMapping;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FlightServicesApplicationTests {
+class StateDistrictMappingApplicationTests {
 
-//	@Test
+	@Test
 	void contextLoads() {
 	}
 

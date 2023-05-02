@@ -1,9 +1,11 @@
+server:
+  port: 5000
 spring:
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://mysql-container:3306/test
+    url: jdbc:mysql://ustinterview.cmutxe0z6wny.ap-south-1.rds.amazonaws.com:3306/ustinterview
     username: root
-    password: pass@word1
+    password: blessonust
   jpa:
     hibernate.ddl-auto: update
     generate-ddl: true
